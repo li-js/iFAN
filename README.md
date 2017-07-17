@@ -7,7 +7,7 @@ To run the code, build the docker image first by
 ```
 cd {iFAN_root}/docker
 ./build_docker.sh
-cd {iFAN_root}/..
+cd {iFAN_root}/
 ```
 
 Then start a docker container by 
