@@ -15,14 +15,16 @@ Then start a docker container by
 ./start_docker.sh
 ```
 
+Within the docker container, the {iFAN_root} was mapped to /ifan/.
+
 To run the model which performs face segmentation and landmark localization, go to folder task_seg_pts and run predict.py from there:
 ```
-cd {iFAN_root}/task_seg_pts/
+cd /ifan/task_seg_pts/
 python predict.py
 ```
 
 To run the model which performs face segmentation and landmark localization and emotion recognition, go to folder task_seg_pts_emo and run predict.py from there:
 ```
-cd {iFAN_root}/task_seg_pts_emo/
+cd /ifan/task_seg_pts_emo/
 python predict.py
 ```
