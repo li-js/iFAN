@@ -28,3 +28,8 @@ To run the model which performs face segmentation and landmark localization and 
 cd /ifan/task_seg_pts_emo/
 python predict.py
 ```
+
+
+Acknowledgement
+Some of the codes to build the Fully Covolutionaly DenseNet are adopted from 
+https://github.com/titu1994/Fully-Connected-DenseNets-Semantic-Segmentation
