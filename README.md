@@ -30,6 +30,6 @@ python predict.py
 ```
 
 
-Acknowledgement
+Acknowledgement: 
 Some of the codes to build the Fully Covolutionaly DenseNet are adopted from 
 https://github.com/titu1994/Fully-Connected-DenseNets-Semantic-Segmentation
