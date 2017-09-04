@@ -116,13 +116,11 @@ for kk in xrange(batch_size):
 
 #0 background
 #1 facial skin
-#2 right eye brow
-#3 left eye brow
-#4 right eye
-#5 left eye
-#6 nose
-#7 upper lip
-#8 within mouth
-#9 lower lip
-#10 hair
+#2 eye brow
+#3 eye
+#4 nose
+#5 upper lip
+#6 within mouth
+#7 lower lip
+#8 hair
 
